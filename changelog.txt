@@ -1,0 +1,4 @@
+= 1.0 =
+Release Date: May 12, 2016
+
+* Initial release
