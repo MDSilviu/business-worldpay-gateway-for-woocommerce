@@ -1,4 +1,17 @@
-= 1.0 =
+= 1.2.0 =
+Release Date: October 17, 2016
+
+* Added woocommerce_payment_complete filter support
+* Added support for sequential order numbers plugins
+* Fix Signature fields display bug
+
+= 1.1.0 =
+Release Date: October 1, 2016
+
+* Multi currency support
+
+
+= 1.0.0 =
 Release Date: May 12, 2016
 
 * Initial release

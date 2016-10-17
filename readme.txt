@@ -1,10 +1,11 @@
 === Business Worldpay Gateway for Woocommerce ===
 Contributors: mdsilviu
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NC53TBZW66P4E
 Author URI: http://mdsdev.eu/
 Tags: worldpay, payment, gateway, wordpress payment gateway, worldpay gateway woocommerce, woocommerce
 Requires at least: 4.1
-Tested up to: 4.5.2
-Stable tag: 1.0.0
+Tested up to: 4.6.1
+Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,6 +14,7 @@ Business WorldPay Gateway for Woocommerce is a Wordpress plugin which allows you
 == Description ==
 
 Business WorldPay  Gateway for Woocommerce is a Wordpress plugin which allows you to accept payments on your Woocommerce store. Shoppers are redirected to WorldPay payment pages, and their payments are processed by WorldPay. Shoppers can pay with their credit/debit card. Available payment methods: Amex, Diners, ELV, JCB, Laser, Mastercard, Mastercard Debit, Maestro, Visa Card, Visa Delta, Visa Electron, Visa Purchasing, V.me by Visa.
+Documentation URL: http://www.mdsdev.eu/mds-worldpay-woocommerce/
 
 The package contains:
 1. The plugin files.
@@ -72,7 +74,20 @@ This section describes how to install the plugin and get it working.
 
 == Changelog ==
 
-= 1.0 =
+= 1.2.0 =
+Release Date: October 17, 2016
+
+* Added woocommerce_payment_complete filter support
+* Added support for sequential order numbers plugins
+* Fix Signature fields display bug
+
+= 1.1.0 =
+Release Date: October 1, 2016
+
+* Multi currency support
+
+
+= 1.0.0 =
 Release Date: May 12, 2016
 
 * Initial release
