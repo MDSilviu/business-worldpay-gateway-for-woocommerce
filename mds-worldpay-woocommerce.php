@@ -11,7 +11,7 @@
  * Plugin Name:       Business WorldPay Gateway for Woocommerce
  * Plugin URI:        http://www.mdsdev.eu/mds-worldpay-woocommerce
  * Description:       WooCommerce Plugin for accepting payment through WorldPay Business Gateway
- * Version:           1.2.0
+ * Version:           1.3.0
  * Author:            MDSDev
  * Author URI:        http://www.mdsdev.eu
  * Text Domain:       mds-worldpay-woocommerce

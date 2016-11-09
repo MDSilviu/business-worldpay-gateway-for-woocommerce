@@ -74,7 +74,7 @@ class MDS_Worldpay_Woocommerce
     {
 
         $this->plugin_name = 'mds-worldpay-woocommerce';
-        $this->version = '1.2.0';
+        $this->version = '1.3.0';
 
         $this->load_dependencies();
         $this->set_locale();

@@ -5,7 +5,7 @@ Author URI: http://mdsdev.eu/
 Tags: worldpay, payment, gateway, wordpress payment gateway, worldpay gateway woocommerce, woocommerce
 Requires at least: 4.1
 Tested up to: 4.6.1
-Stable tag: 1.2.0
+Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -73,6 +73,12 @@ This section describes how to install the plugin and get it working.
 5. Payment Page Design 2
 
 == Changelog ==
+
+= 1.3.0 =
+Release Date: November 19, 2016
+
+* Update worldpay payment currencies
+
 
 = 1.2.0 =
 Release Date: October 17, 2016
